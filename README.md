@@ -76,13 +76,11 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-HISHAM-DEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-HISHAM-DEV&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-HISHAM-DEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-HISHAM-DEV&layout=compact&theme=radical" alt="Top Languages" width="32%"/>
+  <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="32%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
-</p>
 
 ---
 

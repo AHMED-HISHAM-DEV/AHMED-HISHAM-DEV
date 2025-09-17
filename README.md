@@ -51,22 +51,15 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=AHMED-HISHAM-DEV&theme=react-dark" alt="Contribution Graph" width="48%"/>
 </p>
 
-<!-- Optional: WakaTime (coding time) — remove if you don't use WakaTime -->
-<p align="center">
+<!-- Optional: WakaTime (coding time) — remove if you don't use WakaTime 
+/*<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AHMED_HISHAM_DEVSEC&layout=compact&theme=radical" alt="WakaTime" width="48%"/>
-</p>
+</p>-->
 
 <!-- Visitors / Hits -->
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AHMED-HISHAM-DEV&style=flat&color=orange&label=PROFILE+VIEWS)
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAHMED-HISHAM-DEV&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS" alt="Hits"/>
 </p>
 
-<!-- Optional extra small stats row -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-HISHAM-DEV&repo=YOUR_REPO&theme=radical" alt="Pinned Repo" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-HISHAM-DEV&repo=ANOTHER_REPO&theme=radical" alt="Pinned Repo 2" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-HISHAM-DEV&repo=THIRD_REPO&theme=radical" alt="Pinned Repo 3" width="33%"/>
-</p>
 
-<!-- ======= end ======= -->

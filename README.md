@@ -164,8 +164,10 @@
   <!-- Snake animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <br>
-  <!-- 3D profile demo -->
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-night-rainbow.svg" width="600"/>
+  <!-- Skyline 3D City -->
+  <a href="https://skyline.github.com/AHMED-HISHAM-DEV" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20Skyline%20City-View%20My%20GitHub%20Contributions-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---

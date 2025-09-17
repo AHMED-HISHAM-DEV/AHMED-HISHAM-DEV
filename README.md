@@ -96,9 +96,10 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/followers/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/commit-activity/m/AHMED-HISHAM-DEV?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/github/repo-size/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/m/AHMED-HISHAM-DEV/AHMED-HISHAM-DEV?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/github/repo-size/AHMED-HISHAM-DEV/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
 </p>
+
 
 ---
 

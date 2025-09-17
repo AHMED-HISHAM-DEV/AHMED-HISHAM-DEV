@@ -37,8 +37,36 @@
 
 ---
 
-<!-- GitHub Stats -->
+<!-- ======= GitHub Stats (all) ======= -->
+
+<!-- Main stats + Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-HISHAM-DEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-HISHAM-DEV&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
+
+<!-- Streaks + Activity graph -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED-HISHAM-DEV&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=AHMED-HISHAM-DEV&theme=react-dark" alt="Contribution Graph" width="48%"/>
+</p>
+
+<!-- Optional: WakaTime (coding time) — remove if you don't use WakaTime -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical" alt="WakaTime" width="48%"/>
+</p>
+
+<!-- Visitors / Hits -->
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAHMED-HISHAM-DEV&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS" alt="Hits"/>
+</p>
+
+<!-- Optional extra small stats row -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-HISHAM-DEV&repo=YOUR_REPO&theme=radical" alt="Pinned Repo" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-HISHAM-DEV&repo=ANOTHER_REPO&theme=radical" alt="Pinned Repo 2" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHMED-HISHAM-DEV&repo=THIRD_REPO&theme=radical" alt="Pinned Repo 3" width="33%"/>
+</p>
+
+<!-- ======= end ======= -->

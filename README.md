@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" alt="Workspace"  width="40%"/><br> 
-
+# **Ahmed Hesham**
 <details>
   <summary><strong>Busy coding & Vibing to :</strong></summary>
 
@@ -10,7 +10,6 @@
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedHesham&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedHesham&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/AhmedHesham-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
 </div>
 
@@ -24,8 +23,7 @@
 ![EF Core](https://img.shields.io/badge/Entity--Framework-339933?style=flat)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37626?style=flat&logo=burp-suite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00457C?style=flat&logo=owasp&logoColor=white)
@@ -37,8 +35,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ```csharp
 // tools_I_use organized

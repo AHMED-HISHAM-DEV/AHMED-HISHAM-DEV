@@ -1,69 +1,52 @@
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/images/dev-working_rounded.gif" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" alt="Workspace"  width="40%"/><br> 
 
 <details>
-  <summary><strong>Busy coding & vibing to</strong></summary>
+  <summary><strong>Busy coding & Vibing to :</strong></summary>
 
-  [![Spotify](https://spotify-readme-example.vercel.app/api/spotify)](https://open.spotify.com/) 
+  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Connect-Telegram-blue?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedHesham&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedHesham&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/AhmedHesham-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
 </div>
 
----
+<hr/>
 
-# 🛠️ Tools & Skills
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity--Framework-339933?style=flat)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![REST](https://img.shields.io/badge/REST-4A4A4A?style=flat)
-![gRPC](https://img.shields.io/badge/gRPC-00A1F1?style=flat)
-![OAuth](https://img.shields.io/badge/OAuth-7289DA?style=flat)
-![JWT](https://img.shields.io/badge/JWT-3B82F6?style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-![Burp Suite](https://img.shields.io/badge/Burp-Suite-black?style=flat)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF6A00?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-6DB33F?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37626?style=flat&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00457C?style=flat&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-9B59B6?style=flat)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1778B3?style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
----
-
-# 👨‍💻 About Me
-
-I'm **Ahmed Hesham** — Backend Engineer specialized in **.NET / C#** and a Penetration Tester.  
-I design robust REST and gRPC APIs, build scalable microservices using Docker & Kubernetes, optimize databases (SQL/NoSQL), and conduct web/API penetration tests using tools like Burp Suite, OWASP ZAP, Nmap, and Metasploit.
-
----
-
-# 🔭 Core Expertise
-
-- Backend: **ASP.NET Core**, Web API, gRPC, Middleware, Authentication (JWT / OAuth2)  
-- Databases: **SQL Server**, PostgreSQL, EF Core, Query Optimization, Migrations  
-- DevOps: Docker, Docker Compose, Kubernetes (basic), CI/CD (GitHub Actions)  
-- Security & Pentesting: OWASP Top 10, API security, Authentication testing, SQLi, XSS, CSRF, SSRF, Security headers, Burp Suite, ZAP, Nmap, fuzzing  
-- Testing: Unit tests, Integration tests, Postman/Newman  
-- Tools & IDEs: Visual Studio, Rider, VSCode, Git, Wireshark
-
----
-
-# 🧰 Tools-as-Code (C# style)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ```csharp
-public static class Stack
-{
-    public static readonly string[] Languages = { "C#", "SQL", "PowerShell" };
-    public static readonly string[] Frameworks = { ".NET 7", "ASP.NET Core", "EntityFramework Core" };
-    public static readonly string[] DevOps = { "Docker", "Kubernetes", "GitHub Actions" };
-    public static readonly string[] Security = { "BurpSuite", "OWASP ZAP", "Nmap", "Metasploit" };
+// tools_I_use organized
+class About : Me 
+{ 
+    public readonly string[] ProgrammingLanguages = { "C#", "SQL", "PowerShell" };
+    public readonly string[] Frameworks = { ".NET 7", "ASP.NET Core", "Entity Framework Core" };
+    public readonly string[] Databases = { "SQL Server", "PostgreSQL" };
+    public readonly string[] DevOps = { "Docker", "Kubernetes", "GitHub Actions" };
+    public readonly string[] Security = { "Burp Suite", "OWASP ZAP", "Nmap", "Metasploit" };
 }

@@ -94,6 +94,25 @@
 
 ---
 
+<!-- Achievements Badges -->
+### 🥇 Achievements  
+<p align="center">
+  <img src="https://img.shields.io/github/stars/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/followers/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/m/AHMED-HISHAM-DEV?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/github/repo-size/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+<!-- Profile Summary Cards -->
+### 📋 Profile Summary  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHMED-HISHAM-DEV&theme=radical" alt="Profile Summary"/>
+</p>
+
+---
+
 <!-- Activity Graph -->
 ### 📈 Contribution Graph  
 <p align="center">
@@ -126,6 +145,29 @@
 
 😂 Dev Joke of the Day:  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)  
+
+🤣 Random Meme:  
+<img src="https://random-memer.herokuapp.com/" width="400"/>
+
+---
+
+<!-- Support -->
+### ☕ Support Me  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ahmedhesham" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<!-- Visitors Map -->
+### 🌍 Visitors Map  
+<p align="center">
+  <img src="https://github.com/ahmed-hisham-dev/ahmed-hisham-dev/blob/output/github-contribution-grid-snake.svg" />
+  <br>
+  <img src="https://raw.githubusercontent.com/AHMED-HISHAM-DEV/AHMED-HISHAM-DEV/main/profile-3d-contrib/profile-night-rainbow.svg" width="600"/>
+</p>
 
 ---
 

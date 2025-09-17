@@ -69,8 +69,9 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED-HISHAM-DEV&theme=radical" alt="GitHub Streak" width="50%"/>
+  <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
 </p>
+
 
 ---
 

@@ -26,7 +26,7 @@
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,mysql,git,docker,kubernetes,linux,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,mysql,git,docker,kubernetes,linux,azure,aws,postman,nginx" />
 </p>
 
 ---
@@ -68,6 +68,14 @@
 
 ---
 
+<!-- Activity Graph -->
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMED-HISHAM-DEV&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
 <!-- Quote -->
 <p align="center">
   <i>"Security is not a product, but a process." – Bruce Schneier</i>
@@ -75,17 +83,19 @@
 
 ---
 
-<!-- Social Links -->
+<!-- Fun Fact -->
+### 🎯 Fun Fact  
+💡 "The first computer virus was created in 1986 and was called **Brain** – made by two Pakistani brothers."  
+
+---
+
+<!-- Contact -->
+### 📬 Contact Me  
 <p align="center">
-  <a href="https://github.com/AHMED-HISHAM-DEV">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-hisham-pentester/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/Ahmed_Hisham_DevSec">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="mailto:ahmed.hesham@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AHMED-HISHAM-DEV"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-hisham-pentester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Ahmed_Hisham_DevSec"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---

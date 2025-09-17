@@ -148,15 +148,7 @@
 
 ---
 
-<!-- Support -->
-### ☕ Support Me  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ahmedhesham" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
 
----
 
 <!-- Visitors Map -->
 ### 🌍 Visitors Map  
@@ -164,10 +156,6 @@
   <!-- Snake animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <br>
-  <!-- Skyline 3D City -->
-  <a href="https://skyline.github.com/AHMED-HISHAM-DEV" target="_blank">
-    <img src="https://img.shields.io/badge/3D%20Skyline%20City-View%20My%20GitHub%20Contributions-blue?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
@@ -182,7 +170,7 @@
 <!-- Contact -->
 ### 📬 Contact Me  
 <p align="center">
-  <a href="mailto:ahmed.hesham@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahmed.hesham.devsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AHMED-HISHAM-DEV"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmed-hisham-pentester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/Ahmed_Hisham_DevSec"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>

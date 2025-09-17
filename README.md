@@ -1,48 +1,47 @@
-<div align="center" width="50">
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=I'm+Ahmed+Hesham;Backend+.NET+Engineer;Penetration+Tester;Always+learning+new+things!" alt="Typing SVG" />
+</p>
 
-<img src="https://github.com/SP-XD/SP-XD/raw/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" alt="Workspace"  width="40%"/><br> 
-# **Ahmed Hesham**
-<details>
-  <summary><strong>Busy coding & Vibing to :</strong></summary>
+<!-- Name -->
+<h1 align="center">Ahmed Hesham | أحمد هشام 👋</h1>
 
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
-</details>
+<!-- Roles -->
+<p align="center">
+  🔹 <b>Backend .NET Engineer</b> | 🛡️ <b>Penetration Tester</b> | 🚀 <b>Cybersecurity Enthusiast</b>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedHesham&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/AhmedHesham-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
-</div>
+---
 
-<hr/>
+<!-- About Me -->
+- 🖥️ Experienced in building **REST/gRPC APIs** with **ASP.NET Core**  
+- 🗄️ Skilled with **SQL Server**, PostgreSQL, EF Core  
+- 🐳 Containerization using **Docker & Kubernetes**  
+- 🛡️ Penetration Testing: Burp Suite, OWASP ZAP, Nmap, Metasploit, Kali Linux  
+- 📚 Always exploring new technologies in **security and backend performance**  
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+---
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity--Framework-339933?style=flat)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37626?style=flat&logo=burp-suite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00457C?style=flat&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-9B59B6?style=flat)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
-```csharp
-// tools_I_use organized
-class About : Me 
-{ 
-    public readonly string[] ProgrammingLanguages = { "C#", "SQL", "PowerShell" };
-    public readonly string[] Frameworks = { ".NET 7", "ASP.NET Core", "Entity Framework Core" };
-    public readonly string[] Databases = { "SQL Server", "PostgreSQL" };
-    public readonly string[] DevOps = { "Docker", "Kubernetes", "GitHub Actions" };
-    public readonly string[] Security = { "Burp Suite", "OWASP ZAP", "Nmap", "Metasploit" };
-}
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>

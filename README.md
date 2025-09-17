@@ -81,7 +81,6 @@
   <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="32%"/>
 </p>
 
-
 ---
 
 <!-- GitHub Trophies -->
@@ -162,9 +161,11 @@
 <!-- Visitors Map -->
 ### 🌍 Visitors Map  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AHMED-HISHAM-DEV/AHMED-HISHAM-DEV/output/github-contribution-grid-snake.svg" />
+  <!-- Snake animation ready-hosted -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <br>
-  <img src="https://raw.githubusercontent.com/AHMED-HISHAM-DEV/AHMED-HISHAM-DEV/main/profile-3d-contrib/profile-night-rainbow.svg" width="600"/>
+  <!-- 3D profile placeholder (demo image) -->
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-night-rainbow.svg" width="600"/>
 </p>
 
 ---

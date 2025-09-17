@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+Ahmed+Hesham;Backend+.NET+Engineer;Penetration+Tester;Cybersecurity+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
 <!-- Name -->
 <h1 align="center">Ahmed Hesham | أحمد هشام 👋</h1>
 
@@ -10,6 +15,15 @@
 <p align="center">
   🔹 <b>Backend .NET Engineer</b> | 🛡️ <b>Penetration Tester</b> | 🚀 <b>Cybersecurity Enthusiast</b>
 </p>
+
+---
+
+### 🌟 Highlights  
+✅ Backend Developer specialized in **ASP.NET Core & APIs**  
+✅ Security Mindset with **Penetration Testing** background  
+✅ Cloud Ready: **Azure & AWS**  
+✅ Containerization: **Docker + Kubernetes**  
+✅ Always aiming for **Clean Code & High Performance**  
 
 ---
 
@@ -26,7 +40,19 @@
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,mysql,git,docker,kubernetes,linux,azure,aws,postman,nginx" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,mysql,git,docker,kubernetes,linux,azure,aws,postman,nginx,visualstudio,vscode,github" />
+</p>
+
+---
+
+<!-- Tools -->
+### 🔧 Tools I Use Daily  
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure-1E90FF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
@@ -76,16 +102,37 @@
 
 ---
 
+<!-- Currently Learning -->
+### 📚 Currently Learning  
+- Advanced **.NET Performance Optimization**  
+- **Cloud Security** (Azure Security Center, IAM)  
+- **Red Team Techniques** for advanced pentesting  
+
+---
+
+<!-- Collaborate -->
+### 🤝 Let’s Collaborate  
+🚀 Open for **Freelance Projects, Internships, and Research** in:  
+- Backend Development (.NET, APIs)  
+- Penetration Testing & Security Audits  
+- Cloud & Containerized Systems  
+
+---
+
+<!-- Fun Section -->
+### 🎮 Fun Section  
+💡 Random Dev Quote:  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+😂 Dev Joke of the Day:  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)  
+
+---
+
 <!-- Quote -->
 <p align="center">
   <i>"Security is not a product, but a process." – Bruce Schneier</i>
 </p>
-
----
-
-<!-- Fun Fact -->
-### 🎯 Fun Fact  
-💡 "The first computer virus was created in 1986 and was called **Brain** – made by two Pakistani brothers."  
 
 ---
 

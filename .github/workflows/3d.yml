@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # لازم علشان ال GITHUB_TOKEN يشتغل
+      contents: write   # يسمح بالـ push
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -23,4 +23,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add .
           git commit -m "generated 3d profile" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} HEAD:main

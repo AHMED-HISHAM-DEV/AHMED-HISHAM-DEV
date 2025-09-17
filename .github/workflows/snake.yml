@@ -19,9 +19,11 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake to output branch
+        env:
+          PAT_TOKEN: ${{ secrets.PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add .
           git commit -m "generated snake" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }} HEAD:output
+          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:output

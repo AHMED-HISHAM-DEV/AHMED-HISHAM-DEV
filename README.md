@@ -56,10 +56,10 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AHMED_HISHAM_DEVSEC&layout=compact&theme=radical" alt="WakaTime" width="48%"/>
 </p>-->
 
-<!-- Visitors / Hits -->
+<!-- Visitors / Hits
 <p align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=AHMED-HISHAM-DEV&style=flat&color=orange&label=PROFILE+VIEWS)
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAHMED-HISHAM-DEV&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS" alt="Hits"/>
-</p>
+</p>  -->
 
 

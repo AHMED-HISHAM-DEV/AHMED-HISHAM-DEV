@@ -8,13 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # يسمح بالـ push باستخدام GITHUB_TOKEN
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          USERNAME: AHMED-HISHAM-DEV
 
       - name: Push 3D profile to main branch
         run: |
@@ -23,5 +23,3 @@ jobs:
           git add .
           git commit -m "generated 3d profile" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

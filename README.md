@@ -45,11 +45,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-HISHAM-DEV&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
-<!-- Streaks + Activity graph -->
+<!-- Streaks + Activity graph 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED-HISHAM-DEV&theme=radical" alt="GitHub Streak" width="48%"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=AHMED-HISHAM-DEV&theme=react-dark" alt="Contribution Graph" width="48%"/>
-</p>
+</p> -->
 
 <!-- Optional: WakaTime (coding time) — remove if you don't use WakaTime 
 /*<p align="center">

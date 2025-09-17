@@ -39,6 +39,35 @@
 
 ---
 
+<!-- Projects Showcase -->
+### 🚧 Featured Projects  
+🔹 [🔐 Pentesting Toolkit](https://github.com/AHMED-HISHAM-DEV) – Collection of penetration testing scripts and automation tools.  
+🔹 [⚙️ .NET API Boilerplate](https://github.com/AHMED-HISHAM-DEV) – Scalable API template with EF Core & JWT Authentication.  
+🔹 [☁️ Dockerized Microservices](https://github.com/AHMED-HISHAM-DEV) – Microservices architecture using .NET & Kubernetes.  
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-HISHAM-DEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-HISHAM-DEV&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
+</p>
+
+---
+
+<!-- GitHub Trophies -->
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AHMED-HISHAM-DEV&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
 <!-- Quote -->
 <p align="center">
   <i>"Security is not a product, but a process." – Bruce Schneier</i>
@@ -58,20 +87,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-HISHAM-DEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-HISHAM-DEV&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
-</p>
-
 
 ---
 

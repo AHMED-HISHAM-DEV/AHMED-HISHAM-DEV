@@ -53,7 +53,7 @@
 
 <!-- Optional: WakaTime (coding time) — remove if you don't use WakaTime -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@AHMED_HISHAM_DEVSEC&layout=compact&theme=radical" alt="WakaTime" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AHMED_HISHAM_DEVSEC&layout=compact&theme=radical" alt="WakaTime" width="48%"/>
 </p>
 
 <!-- Visitors / Hits -->

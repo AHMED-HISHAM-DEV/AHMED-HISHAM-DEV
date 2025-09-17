@@ -1,15 +1,15 @@
 name: Generate 3D Profile
 
 on:
-  schedule: # يرن كل يوم الساعة 1 صباحًا
-    - cron: "0 1 * * *"
+  schedule:
+    - cron: "0 1 * * *" # يرن كل يوم الساعة 1 صباحًا
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -20,6 +20,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated 3d profile"
+          git add .
+          git commit -m "generated 3d profile" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

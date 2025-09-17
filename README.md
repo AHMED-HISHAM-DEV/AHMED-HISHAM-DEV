@@ -161,10 +161,10 @@
 <!-- Visitors Map -->
 ### 🌍 Visitors Map  
 <p align="center">
-  <!-- Snake animation ready-hosted -->
+  <!-- Snake animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <br>
-  <!-- 3D profile placeholder (demo image) -->
+  <!-- 3D profile demo -->
   <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-night-rainbow.svg" width="600"/>
 </p>
 

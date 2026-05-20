@@ -1,18 +1,19 @@
-<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0_4FTLN5/giphy.gif" width="100%" alt="Cyber Security Hacking Live Banner"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=I'm+Ahmed+Hisham;Penetration+Tester;Bug+Bounty+Hunter;Security+Automation+Developer;Always+Breaking+%26+Securing+Things!" alt="Typing SVG" />
 </p>
 
-<!-- Name -->
 <h1 align="center">Ahmed Hisham | أحمد هشام 🎯</h1>
 
-<!-- Roles / Headline -->
 <p align="center">
   🛡️ <b>Penetration Tester</b> | 🐛 <b>Bug Bounty Hunter</b> | ⚡ <b>Security Automation</b> | 💻 <b>.NET Backend Enthusiast</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-hisham-pentester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-hisham-devsec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmed.hesham.devsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/Ahmed_Hisham_DevSec"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
@@ -100,14 +101,12 @@
 
 ---
 
-<!-- Quote -->
 <p align="center">
   <i>"Security is not a product, but a process." – Bruce Schneier</i>
 </p>
 
 ---
 
-<!-- Trackers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AHMED-HISHAM-DEV&style=flat&color=orange&label=PROFILE+VIEWS"/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AHMED-HISHAM-DEV&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS"/>

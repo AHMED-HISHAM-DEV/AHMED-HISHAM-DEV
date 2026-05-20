@@ -1,162 +1,101 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+Ahmed+Hesham;Backend+.NET+Engineer;Penetration+Tester;Cybersecurity+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
-</p>
-
-<!-- GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=I'm+Ahmed+Hisham;Penetration+Tester;Bug+Bounty+Hunter;Security+Automation+Developer;Always+Breaking+%26+Securing+Things!" alt="Typing SVG" />
 </p>
 
 <!-- Name -->
-<h1 align="center">Ahmed Hesham | أحمد هشام 👋</h1>
+<h1 align="center">Ahmed Hisham | أحمد هشام 🎯</h1>
 
-<!-- Roles -->
+<!-- Roles / Headline -->
 <p align="center">
-  🔹 <b>Backend .NET Engineer</b> | 🛡️ <b>Penetration Tester</b> | 🚀 <b>Cybersecurity Enthusiast</b>
+  🛡️ <b>Penetration Tester</b> | 🐛 <b>Bug Bounty Hunter</b> | ⚡ <b>Security Automation</b> | 💻 <b>.NET Backend Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-hisham-pentester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmed.hesham.devsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Ahmed_Hisham_DevSec"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌟 Highlights  
-✅ Backend Developer specialized in **ASP.NET Core & APIs**  
-✅ Security Mindset with **Penetration Testing** background  
-✅ Cloud Ready: **Azure & AWS**  
-✅ Containerization: **Docker + Kubernetes**  
-✅ Always aiming for **Clean Code & High Performance**  
-
----
-
-<!-- About Me -->
 ### 🚀 About Me  
-- 🖥️ Experienced in building **REST/gRPC APIs** with **ASP.NET Core**  
-- 🗄️ Skilled with **SQL Server**, PostgreSQL, EF Core  
-- 🐳 Containerization using **Docker & Kubernetes**  
-- 🛡️ Penetration Testing: Burp Suite, OWASP ZAP, Nmap, Metasploit, Kali Linux  
-- 📚 Always exploring new technologies in **security and backend performance**  
+- 🛡️ Focused on **Web Application Security**, **API Penetration Testing**, and **Network/Active Directory Assessment**.
+- 🐛 Active **Bug Bounty Hunter** chasing vulnerabilities like **IDOR, XSS, SQLi, CSRF**, and Business Logic Flaws.
+- ⚙️ Love developing **Security Tools & Automation Scripts** using **Python, Bash, and C# .NET**.
+- 🧠 Strong understanding of both sides: **Offensive Security** tactics and **Secure Code Review / Remediation**.
 
 ---
 
-<!-- Tech Stack -->
-### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,mysql,git,docker,kubernetes,linux,azure,aws,postman,nginx,visualstudio,vscode,github" />
+### 🛠️ Cyber Security Arsenal  
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>⚔️ Offensive Tools & Frameworks</b><br><br>
+      <img src="https://img.shields.io/badge/Burp+Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nmap-007ACC?style=flat-square&logo=nmap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OWASP+ZAP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Kali+Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Wireshark-167EE6?style=flat-square&logo=wireshark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dirsearch-🥷-black?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <b>💻 Development & Infrastructure</b><br><br>
+      <img src="https://img.shields.io/badge/.NET+Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎯 Platforms & Lab Progress 
+<p align="left">
+  🔹 <b>PortSwigger Web Security Academy:</b> Actively solving advanced web vulnerability labs.<br>
+  🔹 <b>HackerOne / Bugcrowd:</b> Hunting on VDP/BBP programs.<br>
+  🔹 <b>CTFs:</b> Participating in Jeopardies & Attack-Defense challenges.
 </p>
 
 ---
 
-<!-- Tools -->
-### 🔧 Tools I Use Daily  
+### 🎓 Professional Milestones & Certifications  
+- 📜 **eJPT** (eLearnSecurity Certified Junior Penetration Tester)
+- 📜 **HCIA Security** (Huawei Certified ICT Associate)
+- 📜 **CCEP** (Certified Cybersecurity Educator Professional)
+- 📜 **Microsoft Certified: Azure Fundamentals**
+
+---
+
+### 🚧 Security & Dev Projects  
+🔹 [🔐 Security Automation & Pentesting Toolkit](https://github.com/AHMED-HISHAM-DEV) – Custom Python and Bash scripts designed to automate reconnaissance, fuzzing, and vulnerability scanning.  
+🔹 [⚙️ Insecure Web App Lab](https://github.com/AHMED-HISHAM-DEV) – A vulnerable .NET API environment built intentionally to practice OWASP Top 10 exploitation and secure code remediation.  
+🔹 [☁️ Secure API Boilerplate](https://github.com/AHMED-HISHAM-DEV) – Production-ready .NET architecture featuring hardened JWT Authentication, Rate Limiting, and secure configuration management.
+
+---
+
+### 📊 GitHub Stats & Metrics  
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-Azure-1E90FF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-HISHAM-DEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMED-HISHAM-DEV&theme=react-dark&hide_border=true" alt="Contribution Graph" width="97%"/>
 </p>
 
 ---
 
-<!-- Certifications -->
-### 🎓 Certifications  
-- ✔️ **HCIA Security** (Huawei)  
-- ✔️ **EC-Council CEH (In Progress)**  
-- ✔️ **Microsoft Certified: Azure Fundamentals**  
-
----
-
-<!-- Projects Showcase -->
-### 🚧 Featured Projects  
-🔹 [🔐 Pentesting Toolkit](https://github.com/AHMED-HISHAM-DEV) – Collection of penetration testing scripts and automation tools.  
-🔹 [⚙️ .NET API Boilerplate](https://github.com/AHMED-HISHAM-DEV) – Scalable API template with EF Core & JWT Authentication.  
-🔹 [☁️ Dockerized Microservices](https://github.com/AHMED-HISHAM-DEV) – Microservices architecture using .NET & Kubernetes.  
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats  
+### 🪱 The Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-HISHAM-DEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-HISHAM-DEV&layout=compact&theme=radical" alt="Top Languages" width="32%"/>
-  <img src="https://streak-stats.demolab.com?user=AHMED-HISHAM-DEV&theme=radical&hide_border=false" alt="GitHub Streak" width="32%"/>
-</p>
-
----
-
-<!-- GitHub Trophies -->
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AHMED-HISHAM-DEV&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- Achievements Badges -->
-### 🥇 Achievements  
-<p align="center">
-  <img src="https://img.shields.io/github/stars/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/followers/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/commit-activity/m/AHMED-HISHAM-DEV/AHMED-HISHAM-DEV?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/github/repo-size/AHMED-HISHAM-DEV/AHMED-HISHAM-DEV?style=for-the-badge&logo=github"/>
-</p>
-
-
----
-
-<!-- Profile Summary Cards -->
-### 📋 Profile Summary  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHMED-HISHAM-DEV&theme=radical" alt="Profile Summary"/>
-</p>
-
----
-
-<!-- Activity Graph -->
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AHMED-HISHAM-DEV&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-<!-- Currently Learning -->
-### 📚 Currently Learning  
-- Advanced **.NET Performance Optimization**  
-- **Cloud Security** (Azure Security Center, IAM)  
-- **Red Team Techniques** for advanced pentesting  
-
----
-
-<!-- Collaborate -->
-### 🤝 Let’s Collaborate  
-🚀 Open for **Freelance Projects, Internships, and Research** in:  
-- Backend Development (.NET, APIs)  
-- Penetration Testing & Security Audits  
-- Cloud & Containerized Systems  
-
----
-
-<!-- Fun Section -->
-### 🎮 Fun Section  
-💡 Random Dev Quote:  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-😂 Dev Joke of the Day:  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)  
-
-🤣 Random Meme:  
-<img src="https://random-memer.herokuapp.com/" width="400"/>
-
----
-
-
-
-<!-- Visitors Map -->
-### 🌍 Visitors Map  
-<p align="center">
-  <!-- Snake animation -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Grid" />
 </p>
 
 ---
@@ -168,18 +107,7 @@
 
 ---
 
-<!-- Contact -->
-### 📬 Contact Me  
-<p align="center">
-  <a href="mailto:ahmed.hesham.devsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AHMED-HISHAM-DEV"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-hisham-pentester/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Ahmed_Hisham_DevSec"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
----
-
-<!-- Visitors -->
+<!-- Trackers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AHMED-HISHAM-DEV&style=flat&color=orange&label=PROFILE+VIEWS"/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AHMED-HISHAM-DEV&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS"/>

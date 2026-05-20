@@ -1,17 +1,27 @@
+<!-- Hacking Live Banner -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo0d21iaHlwODE5a2VpYTMzamM5d2tiYmpkamp3ZThjNnlubGM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="100%" alt="Cyber Security Hacking Live Banner"/>
 </p>
 
+<!-- Terminal Welcome Accent -->
+<p align="center">
+  <code>[root@ahmed-hisham]# ./initialize_profile.sh --status=active</code>
+</p>
+
+<!-- Banner - Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=I'm+Ahmed+Hisham;Penetration+Tester;Bug+Bounty+Hunter;Security+Automation+Developer;Always+Breaking+%26+Securing+Things!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Ahmed Hisham | أحمد هشام 🎯</h1>
+<!-- Name -->
+<h1 align="center">Ahmed Hisham 🎯</h1>
 
+<!-- Roles / Headline -->
 <p align="center">
   🛡️ <b>Penetration Tester</b> | 🐛 <b>Bug Bounty Hunter</b> | ⚡ <b>Security Automation</b> | 💻 <b>.NET Backend Enthusiast</b>
 </p>
 
+<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hisham-devsec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmed.hesham.devsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -27,6 +37,11 @@
 - 🧠 Strong understanding of both sides: **Offensive Security** tactics and **Secure Code Review / Remediation**.
 
 ---
+
+### 🎯 Vulnerability Focus & Targets
+```🗣️ Main Targets: Web Apps | Web APIs | Cloud Environments (AWS/OCI)
+🚨 High Interest: Authentication Bypass, IDORs, SSRF, XSS, Business Logic Vulnerabilities, etc... 
+```
 
 ### 🛠️ Cyber Security Arsenal  
 
@@ -74,13 +89,6 @@
 - 📜 **CCEP** (Certified Cybersecurity Educator Professional)
 - 📜 **AWS Certified: AWS Fundamentals**
 - 📜 **Oracle Certified: Oracle Cloud Infrastrucure**
----
-
-### 🚧 Security & Dev Projects  
-🔹 [🔐 Security Automation & Pentesting Toolkit](https://github.com/AHMED-HISHAM-DEV) – Custom Python and Bash scripts designed to automate reconnaissance, fuzzing, and vulnerability scanning.  
-🔹 [⚙️ Insecure Web App Lab](https://github.com/AHMED-HISHAM-DEV) – A vulnerable .NET API environment built intentionally to practice OWASP Top 10 exploitation and secure code remediation.  
-🔹 [☁️ Secure API Boilerplate](https://github.com/AHMED-HISHAM-DEV) – Production-ready .NET architecture featuring hardened JWT Authentication, Rate Limiting, and secure configuration management.
-
 ---
 
 ### 📊 GitHub Stats & Metrics  

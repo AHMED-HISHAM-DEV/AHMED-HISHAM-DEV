@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0_4FTLN5/giphy.gif" width="100%" alt="Cyber Security Hacking Live Banner"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo0d21iaHlwODE5a2VpYTMzamM5d2tiYmpkamp3ZThjNnlubGM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="100%" alt="Cyber Security Hacking Live Banner"/>
 </p>
 
 <p align="center">
@@ -68,11 +68,12 @@
 ---
 
 ### 🎓 Professional Milestones & Certifications  
+- 📜 **eWPTX** (Web Application Penetration Tester eXtreme) [in progress]
 - 📜 **eJPT** (eLearnSecurity Certified Junior Penetration Tester)
 - 📜 **HCIA Security** (Huawei Certified ICT Associate)
 - 📜 **CCEP** (Certified Cybersecurity Educator Professional)
-- 📜 **Microsoft Certified: Azure Fundamentals**
-
+- 📜 **AWS Certified: AWS Fundamentals**
+- 📜 **Oracle Certified: Oracle Cloud Infrastrucure**
 ---
 
 ### 🚧 Security & Dev Projects  

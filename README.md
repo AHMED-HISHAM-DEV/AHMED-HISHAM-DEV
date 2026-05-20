@@ -40,7 +40,7 @@
 
 ### 🎯 Vulnerability Focus & Targets
 ```🗣️ Main Targets: Web Apps | Web APIs | Cloud Environments (AWS/OCI)
-🚨 High Interest: Authentication Bypass, IDORs, SSRF, XSS, Business Logic Vulnerabilities, etc... 
+🚨 High Interest:(OWASP TOP 10) =>  Authentication Bypass, IDORs, SSRF, XSS, Business Logic Vulnerabilities, etc... 
 ```
 
 ### 🛠️ Cyber Security Arsenal  
